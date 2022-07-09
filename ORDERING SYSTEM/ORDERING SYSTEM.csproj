@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D8C58A9-EF26-4F0B-86E5-668D1A8ADBA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ORDERING_SYSTEM</RootNamespace>
+    <AssemblyName>ORDERING SYSTEM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0D5246E8F851200CA351F7BE726DC7F5275BA982</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ORDERING SYSTEM_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs" />
+    <Compile Include="admin_account_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_account_database.Designer.cs">
+      <DependentUpon>admin_account_database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_database.Designer.cs">
+      <DependentUpon>admin_database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_log_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_log_in.Designer.cs">
+      <DependentUpon>admin_log_in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier.cs" />
+    <Compile Include="cashier_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_database.Designer.cs">
+      <DependentUpon>cashier_database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_form.Designer.cs">
+      <DependentUpon>cashier_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cashier_record.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cashier_record.Designer.cs">
+      <DependentUpon>cashier_record.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer.cs" />
+    <Compile Include="customer_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_database.Designer.cs">
+      <DependentUpon>customer_database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_main.cs" />
+    <Compile Include="customer_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_order.Designer.cs">
+      <DependentUpon>customer_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs" />
+    <Compile Include="menu.cs" />
+    <Compile Include="menu_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu_database.Designer.cs">
+      <DependentUpon>menu_database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order.cs" />
+    <Compile Include="ordering_system_databaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ordering_system_databaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="order_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_database.Designer.cs">
+      <DependentUpon>order_database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="receipt.Designer.cs">
+      <DependentUpon>receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="summary.cs" />
+    <Compile Include="summary_database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="summary_database.Designer.cs">
+      <DependentUpon>summary_database.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin_account_database.resx">
+      <DependentUpon>admin_account_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_database.resx">
+      <DependentUpon>admin_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_log_in.resx">
+      <DependentUpon>admin_log_in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_database.resx">
+      <DependentUpon>cashier_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_form.resx">
+      <DependentUpon>cashier_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cashier_record.resx">
+      <DependentUpon>cashier_record.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_database.resx">
+      <DependentUpon>customer_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_order.resx">
+      <DependentUpon>customer_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu_database.resx">
+      <DependentUpon>menu_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_database.resx">
+      <DependentUpon>order_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="receipt.resx">
+      <DependentUpon>receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="summary_database.resx">
+      <DependentUpon>summary_database.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ORDERING SYSTEM_TemporaryKey.pfx" />
+    <None Include="ordering_system_databaseDataSet.xsc">
+      <DependentUpon>ordering_system_databaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ordering_system_databaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ordering_system_databaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ordering_system_databaseDataSet.xss">
+      <DependentUpon>ordering_system_databaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-eye-20 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menubg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ordering_system_database.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ordering_system_database_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ordering_system_database.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\menu1.jpg" />
+    <None Include="Resources\drinks.png" />
+    <None Include="Resources\noodles.png" />
+    <None Include="Resources\vegetables.png" />
+    <None Include="Resources\seafood.png" />
+    <None Include="Resources\pork&amp;chic.png" />
+    <None Include="Resources\rice.png" />
+    <None Include="Resources\soup.png" />
+    <None Include="Resources\x.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\sum of order.png" />
+    <None Include="Resources\order db.png" />
+    <None Include="Resources\menu db.png" />
+    <None Include="Resources\logout1.png" />
+    <None Include="Resources\customer db.png" />
+    <None Include="Resources\admin acc.png" />
+    <None Include="Resources\icons8-search-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

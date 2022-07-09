@@ -1,0 +1,90 @@
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.config
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.pdb
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_log_in.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.Properties.Resources.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csproj.GenerateResource.Cache
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.pdb
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_database.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_account_database.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database.mdf
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database_log.ldf
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csprojResolveAssemblyReference.cache
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.config
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.pdb
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database.mdf
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database_log.ldf
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.pdb
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csprojResolveAssemblyReference.cache
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_account_database.resources
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_database.resources
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_log_in.resources
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.Properties.Resources.resources
+E:\joash\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csproj.GenerateResource.Cache
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.customer_database.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.order_database.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.summary_database.resources
+E:\joash\SCHOOL FILES\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.config
+E:\joash\SCHOOL FILES\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe
+E:\joash\SCHOOL FILES\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.pdb
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.menu_database.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.customer_order.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.receipt.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_form.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_database.resources
+E:\New Ordering System\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_record.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database.mdf
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database_log.ldf
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_account_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_log_in.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_form.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_record.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.customer_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.customer_order.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.menu_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.order_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.receipt.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.summary_database.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.application
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.application
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.config
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.pdb
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database.mdf
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ordering_system_database_log.ldf
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe.manifest
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.application
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.exe
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\bin\Debug\ORDERING SYSTEM.pdb
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_account_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.admin_log_in.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_form.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.cashier_record.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.customer_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.customer_order.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.menu_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.order_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.Properties.Resources.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.receipt.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING_SYSTEM.summary_database.resources
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.exe.manifest
+C:\Users\admin\Desktop\ORDERING SYSTEM\ORDERING SYSTEM\obj\Debug\ORDERING SYSTEM.application
